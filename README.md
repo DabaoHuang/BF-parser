@@ -1,1 +1,1 @@
-"#Brave Frontier game data parser" 
+#Brave Frontier game data parser
